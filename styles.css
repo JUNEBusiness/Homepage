@@ -1,0 +1,68 @@
+/* elements */
+h1 {
+    margin-left: 20px;
+    font-family: 'sacramento';
+}
+
+h2 {
+    color: white;
+    font-family: 'Merriweather', serif;
+}
+
+h3 {
+    color: white;
+    line-height: 2;
+    margin: 0px;
+    font-family: 'Merriweather Sans', sans-serif;
+}
+
+h4 {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    line-height: 2;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    line-height: 2;
+    margin: 0px;
+}
+
+body {
+    background: #182747;
+}
+
+table {
+    color: white;
+}
+
+header {
+    background: #5F7161;
+    margin-bottom: 10px;
+    text-align: center;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    background: #150050;
+    margin-top: 40px;
+    padding: 20px;
+}
+
+/* id */
+
+#hello {
+    margin: 20px 0px;
+}
+/* classes */
+
+.portfolio {
+    height: 500px;
+}
+
+.btn{
+    color: black;
+    background-color: #BCCEF8;
+}
