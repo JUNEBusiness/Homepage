@@ -31,6 +31,7 @@ p {
 
 body {
     background: #182747;
+    min-height: 100vh;
 }
 
 table {
