@@ -48,8 +48,10 @@ footer {
     color: white;
     text-align: center;
     background: #150050;
-    margin-top: auto;
+    margin-top: 30px;
     padding: 20px;
+    position: relative;
+    bottom: 0px;
 }
 
 /* id */
